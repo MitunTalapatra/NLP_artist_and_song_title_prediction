@@ -1,1 +1,2 @@
 # NLP: Artists and song title prediction
+This project aimed to detect artists and song titles from there lyrics. Lyrics of 'The Lumineers' and 'Of Monsters and Men' were extracted from lyrics.com using beautifulsoup library. There are two logistict regression models were applied. One to detect Artist and another to detect the song title. To visualize the words are being used in lyrics, wordclouds were generated using 'wordcloud'. To analyze the frequency of words 'spacy' were used. 
